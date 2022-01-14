@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jvillarreal-uz/convention-commits/issues"
   },
-  "homepage": "https://github.com/jvillarreal-uz/convention-commits#readme"
+  "homepage": "https://github.com/jvillarreal-uz/convention-commits#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
